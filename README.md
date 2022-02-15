@@ -3,6 +3,10 @@
 얄팍한 코딩사전 님의 가장 쉽게 배우는 도커 실습 코드입니다.<br>
 해당 유튜브는 🌟 **[가장 쉽게 배우는 도커 실습](https://www.youtube.com/watch?v=hWPv9LMlme8)** 🌟 를 확인해주세요.
 
+**velog 글 ⬇️**<br>
+[[이론] docker 란 ?](https://velog.io/@soyeon207/docker-%EB%9E%80)<br>
+[[실습] docker 실습하기](https://velog.io/@soyeon207/%EC%8B%A4%EC%8A%B5-docker-%EC%8B%A4%EC%8A%B5%ED%95%98%EA%B8%B0)
+
 ## 환경 
 front 는 node.js<br>
 backend 는 flask <br>
